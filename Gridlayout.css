@@ -8,6 +8,6 @@ footer {grid-area: footer;}
     display: grid;
     grid-template-areas:none
     'header nav nav nav nav'
-    'main main main main main'
+    'main main main aside aside'
     'footer footer footer footer footer'
 }
