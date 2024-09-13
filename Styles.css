@@ -6,17 +6,21 @@ body {
     background-image: url('Homepage\ background.jpg');
     margin: 0;
 }
+
 header {
     width: 140px;
     float: left;
     margin-bottom: 2em;
 }
+
 .Websitelogo {
     width: 140px;
     padding: 3px;
     margin-left: 60px;
     margin-top: 8px;
+    height: auto;
 }
+
 h1 {
     background-color: #666666;
     font-family: "Krona One", sans-serif;
@@ -24,6 +28,15 @@ h1 {
     color: white;
     font-size: 30px;
 }
+
+h2 {
+    text-align: center;
+    background-image: url('Homepagebackground.jpg');
+    font-size: 60px;
+    padding: 70px;
+    color:azure;
+}
+
 main {
     background-color: #666666;
     font-family: "Krub", sans-serif;
@@ -35,13 +48,15 @@ main {
     margin-top: 30px;
     width: 70%;
 }
+
 nav {
     text-align: right;
     background-color: white;
-    font-size: 25px;
+    font-size: 26px;
     font-family: "Krona One", sans-serif;
     padding: 65px;
 }
+
 nav a{
     text-align: center;
     text-decoration: none;
@@ -67,6 +82,7 @@ img {
     width: 70%;
     margin-bottom: 30px;
 }
+
 footer {
     text-align: center;
     display: compact;

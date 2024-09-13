@@ -9,4 +9,5 @@ footer {grid-area: footer;}
     grid-template-areas:none
     'header nav nav nav nav'
     'main main main main main'
+    'footer footer footer footer footer'
 }
