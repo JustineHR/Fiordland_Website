@@ -64,9 +64,9 @@ nav a{
     text-decoration: none;
     color: black;
     display: compact;
-    border-width: 3px;
-    margin-left: 20px;
-    margin-right: 20px;
+    border-width: 11px;
+    margin-left: 32px;
+    margin-right: 32px;
     font-size: 37px;
 }
 
@@ -74,9 +74,9 @@ nav a:hover {
     text-align: center;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    border: 1px solid rgb(240, 240, 240);
+    border: 11px solid rgb(240, 240, 240);
     background-color: rgb(240, 240, 240);
-    border-radius: 10px;
+    border-radius: 15px 25px;
 }
 
 img {
