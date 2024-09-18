@@ -35,6 +35,11 @@ h2 {
     font-size: 60px;
     padding: 70px;
     color:rgb(9, 47, 131);
+    transition: font-size 2s;
+}
+
+h2:hover {
+    font-size: 90px;
 }
 
 main {
@@ -64,19 +69,23 @@ nav a{
     text-decoration: none;
     color: black;
     display: compact;
-    border-width: 11px;
     margin-left: 32px;
     margin-right: 32px;
-    font-size: 37px;
+    font-size: 37px;    
 }
 
 nav a:hover {
     text-align: center;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    border: 11px solid rgb(240, 240, 240);
+    border: 2px solid rgb(240, 240, 240);
     background-color: rgb(240, 240, 240);
-    border-radius: 15px 25px;
+    font-size: 37px;
+    border-radius: 15px;
+    width: 30px;
+    height: 300px;
+    padding: 10px;
+    border-width: 2px 10px;
 }
 
 img {
