@@ -75,8 +75,9 @@ nav a{
     text-decoration: none;
     color: black;
     display: compact;
-    margin-left: 20px;
-    margin-right: 20px;
+    width: 100%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 nav a:hover {
